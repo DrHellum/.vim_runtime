@@ -1,2 +1,4 @@
 set number
 
+colo blue
+
