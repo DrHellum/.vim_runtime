@@ -1,4 +1,12 @@
 set number
 
-colo blue
+colo vividchalk
 
+set wildmode=list:longest
+
+set expandtab
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+
+set foldmethod=syntax
