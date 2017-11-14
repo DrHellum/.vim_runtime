@@ -25,6 +25,5 @@ let g:lightline = {
   \ }
 
 set noshowmode
-colo solarized
 
 au GUIEnter * simalt ~x
