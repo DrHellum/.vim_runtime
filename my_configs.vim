@@ -27,3 +27,5 @@ let g:lightline = {
 set noshowmode
 
 au GUIEnter * simalt ~x
+
+set autoread
