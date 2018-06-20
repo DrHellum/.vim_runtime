@@ -1,5 +1,6 @@
 set number
 
+set ffs=dos
 set wildmode=list:longest
 
 set expandtab
