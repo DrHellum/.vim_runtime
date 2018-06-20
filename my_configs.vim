@@ -29,3 +29,4 @@ set noshowmode
 
 au GUIEnter * simalt ~x
 
+set autoread
