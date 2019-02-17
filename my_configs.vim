@@ -1,3 +1,5 @@
+execute pathogen#infect('~/.vim_runtime/my_plugins/{}')
+
 set number
 
 set ffs=dos
@@ -30,3 +32,8 @@ set noshowmode
 au GUIEnter * simalt ~x
 
 set autoread
+
+behave mswin
+so mswin.vim
+
+autocmd VimEnter * GitGutterEnable
